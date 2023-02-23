@@ -1,0 +1,79 @@
+
+.name{
+    box-sizing: border-box ;
+    width: 400px;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align: center;
+    border:solid 2px black;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.parent{
+    margin-top: 50px;
+    height:100%;
+    display:flex;
+    justify-content: space-between;
+}
+.profile{
+    letter-spacing: 1px;
+    font-weight:bold;
+    border-bottom: solid 3px black;
+}
+.child1{
+    width:30%;
+    margin: 0px;
+}
+.child2{
+    width:60%;
+}
+.matter{
+    letter-spacing: 0.5px;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+}
+.clgname{
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+.year{
+    margin-top:0px;
+    font-size: smaller;
+    margin-bottom: 4px;
+}
+p.marks{
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin:0px;
+    font-size: small;
+}
+.course{
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-bottom: 5px;
+
+}
+.instructor{
+    margin:0px;
+}
+.child1{
+    margin-left: 35px;
+}
+.profile1{
+    letter-spacing: 1px;
+    font-weight:bold;
+    border-bottom: solid 3px black;
+}
+.heading{
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size:0.35cm;
+    margin-bottom: 5px;
+}
+.details{
+    margin-top: 0px;
+}
